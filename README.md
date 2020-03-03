@@ -9,7 +9,7 @@
  */
 </pre>
 
-<pre> 
+<pre>
 // 20180824 Mark Initial
 // 20190117 Mark Add DevExpressWebDocumentViewer
 // 20190510 Mark Add GetPropertyListByAttribute / GetFunctionListByAttribute
